@@ -1,3 +1,9 @@
+##Aboult
+
+Este repositorio esta sendo criado para os meus estudos em java, pela curiosidade de entender 100% o porque muitos da comunidade "odeiam" a lingaugem java, decidi aprender a linguagem e a POO (Programacao orientada a objeto) do inicio ao fim, e realmente saber se JAVA seria tao complicado como dizem
+
+Estudei java no inicio da faculdade, mas sendo a primeira linguagem de programacao que conheci, nao me adaptei e nao aprendi QUASE NADA e nao entendi QUASE NADA, entao... lat's started
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -18,6 +24,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 ## Roadmap ChatGPT
+
+ perguntei para o ChatGPT qual seria o roadmap para aprender java, com todo o background da faculdade, essee foi o retorno:
 
 1- Aprenda Java 8: Java 8 introduziu muitos recursos interessantes, como expressões lambda, streams, métodos default em interfaces e muito mais. Você pode começar com a leitura do livro "Java 8 in Action" de Raoul-Gabriel Urma, Mario Fusco e Alan Mycroft.
 
