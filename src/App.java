@@ -1,5 +1,11 @@
+import java.util.Date;
+
+//mostrar data e hora do sistema
+
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        Date clock = new Date(); // new -> criacao de um novo objetp
+
+        System.out.println(clock.toString());
     }
 }
