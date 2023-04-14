@@ -1,4 +1,6 @@
-public class Aula2 {
+package CursoEmVideo.aula3;
+
+public class Aula3 {
   public static void main(String[] args) throws Exception {
     System.out.println("Hello, World!");
   }
