@@ -22,3 +22,9 @@ inteiros | byte             | Byte             | 1 byte         | 127 -> tamanho
 reais    | flaot            | float            | 4 bytes        | 3.4e+38
          | double           | Double           | 8 bytes        | 1.8e+308
 ```
+
+escrever um %.2f em um printf, ele adiciona um dois numeros depois da virgula
+
+## entrada de dados
+
+    - normalmente utilizado o java.util. Scanner
